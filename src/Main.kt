@@ -5,6 +5,8 @@ fun main() {
 
     max(8)
 
+    //主分支
+
 }
 
 fun max(value: Int) {
